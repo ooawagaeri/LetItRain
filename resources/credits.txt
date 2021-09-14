@@ -1,0 +1,5 @@
+	Credits to:
+Player		- Zhuang Yuteng
+Enemy		- Chua Wei Jie Timothy
+Environment	- Daniel Lee Min Qiang
+User Interface	- Png Yeow Li
