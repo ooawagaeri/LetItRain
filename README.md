@@ -18,22 +18,22 @@ A Ngee Ann Polytechnic Gameplay Programing Project involving C++,pixel art, math
 
 ### Menu & Heads Up Display
 
-- Menu buttons that starts and exits the game, and HUD shows the score and health of the player’s ship
+- Menu buttons that starts and exits the game, and HUD shows the score and health of the player’s ship.
 - By PNG YEOW LI
 
 ### Player One & Player Two
 
-- Two player ships fight against enemy ships using their weapons which include bullet, laser and missile
+- Two player ships fight against enemy ships using their weapons which include bullet, laser and missile.
 - By ZHUANG YUTENG
 
 ### Environment & Power Ups
 
-- Controlling of the illusion of movement, along with power ups that enhances the ship’s abilities
+- Dynamic background movements and in-game power ups that enhances the ship’s abilities and firepower.
 - By DANIEL LEE
 
 ### Enemy Units
 
-- Hostile mobs that spawn within game to shoot down the player ships from achieving their goal
+- Hostile mobs that spawn within game to shoot down the player ships from achieving their goal.
 - By TIMOTHY CHUA
 
 
